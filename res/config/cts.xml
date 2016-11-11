@@ -18,7 +18,7 @@
 
     <option
         name="v"
-        value="20" />
+        value="200" />
 
      <!--  <option
         name="app-path"
@@ -66,7 +66,7 @@
     <option
         name="pct-tap"
         desc="点击事件的百分比"
-        value="25" />
+        value="55" />
 
     <option
         name="pct-motion"
@@ -75,22 +75,22 @@
 
     <option
         name="pct-drag"
-        desc="点击事件的百分比"
-        value="30" />
+        desc="拖拽事件的百分比"
+        value="10" />
 
     <option
         name="pct-nav"
-        desc="点击事件的百分比"
+        desc="导航事件的百分比"
         value="15" />
 
     <option
         name="pct-majornav"
-        desc="点击事件的百分比"
-        value="15" />
+        desc="主要导航事件的百分比"
+        value="5" />
 
     <option
         name="pct-syskeys"
-        desc="点击事件的百分比"
+        desc="系统事件的百分比"
         value="15" />
 
     <build_provider class="com.android.cts.tradefed.build.CtsBuildProvider" />

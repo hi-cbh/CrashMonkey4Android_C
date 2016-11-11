@@ -12,7 +12,6 @@
 	<classpathentry kind="lib" path="libs/ddmlib-prebuilt.jar" sourcepath="/ddmlib/src"/>
 	<classpathentry kind="lib" path="libs/jline-1.0.jar"/>
 	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/CrashMonkey4Android_tradefederation"/>
-	<classpathentry kind="lib" path="libs/jline-0.9.9.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/tradefederation.jar"/>
 	<classpathentry kind="lib" path="libs/commons-compress-1.8.1.jar"/>
 	<classpathentry kind="lib" path="libs/gson-2.2.4.jar"/>
